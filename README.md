@@ -12,10 +12,9 @@ This project aims to  predicts customer churn for PowerCo a utility company by i
 
 ## Files 📂
 - **Notebook**: Complete analysis and workflow in `Customer_Churn_Analysis.ipynb`.
-- **Data**: Processed datasets for analysis:
+- **Data**: Datasets used in analysis:
   - `client_data.csv`: Contains customer demographic and subscription details.
   - `price_data.csv`: Includes pricing and tariff information.
-  - `combined_and_merged.csv`: Final dataset used for modeling.
 - **Model**: Pre-trained XGBoost model saved as `xgb_model.joblib` for reuse.
 - **Output**: Predicted churn results available in `predictions.csv`.
 - **Dependencies**: All required Python packages listed in `requirements.txt`.
