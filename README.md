@@ -1,6 +1,6 @@
 # Customer Churn Prediction for PowerCo 🚀
 
-This project predicts customer churn for PowerCo by identifying the key drivers of attrition and forecasting high-risk customers. The insights aim to help PowerCo improve customer retention strategies. 📊
+This project aims to  predicts customer churn for PowerCo a utility company by identifying the key drivers of attrition and forecasting high-risk customers. Through comprehensive analysis of price sensitivity - particularly the impact of peak vs. off-peak pricing differentials - we investigate whether price variations drive customer decisions to leave. The insights aim to help PowerCo improve customer retention strategies and optimize their pricing structure. 📊
 
 **Important Note**: This project was completed during the virtual internship provided by BCG X on Forage. It should not be mistaken for actual work conducted directly for BCG X.
 
@@ -12,10 +12,9 @@ This project predicts customer churn for PowerCo by identifying the key drivers 
 
 ## Files 📂
 - **Notebook**: Complete analysis and workflow in `Customer_Churn_Analysis.ipynb`.
-- **Data**: Processed datasets for analysis:
+- **Data**: Datasets used in analysis:
   - `client_data.csv`: Contains customer demographic and subscription details.
   - `price_data.csv`: Includes pricing and tariff information.
-  - `combined_and_merged.csv`: Final dataset used for modeling.
 - **Model**: Pre-trained XGBoost model saved as `xgb_model.joblib` for reuse.
 - **Output**: Predicted churn results available in `predictions.csv`.
 - **Dependencies**: All required Python packages listed in `requirements.txt`.
