@@ -1,6 +1,6 @@
 # Customer Churn Prediction for PowerCo 🚀
 
-This project predicts customer churn for PowerCo by identifying the key drivers of attrition and forecasting high-risk customers. The insights aim to help PowerCo improve customer retention strategies. 📊
+This project aims to  predicts customer churn for PowerCo a utility company by identifying the key drivers of attrition and forecasting high-risk customers. Through comprehensive analysis of price sensitivity - particularly the impact of peak vs. off-peak pricing differentials - we investigate whether price variations drive customer decisions to leave. The insights aim to help PowerCo improve customer retention strategies and optimize their pricing structure. 📊
 
 **Important Note**: This project was completed during the virtual internship provided by BCG X on Forage. It should not be mistaken for actual work conducted directly for BCG X.
 
